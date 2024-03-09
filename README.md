@@ -19,7 +19,7 @@ Feel free to connect with me on LinkedIn or reach out via email:
  
 <div style="display:flex; align-items:start;gap:.7em" >
 <img style="width: 50%; "
-            src="https://github-readme-stats.vercel.app/api?username=tineshnehete&show_icons=false&theme=dark&rank_icon=github&hide_border=true " > 
+            src="https://github-readme-stats.vercel.app/api?username=tineshnehete&show_icons=false&theme=dark&rank_icon=github&hide_border=true" > 
          <img style="width: 50%; "
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=tineshnehete&&theme=dark&hide_progress=true&hide_border=true" />
             </div>
