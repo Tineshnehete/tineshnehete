@@ -11,6 +11,7 @@ Welcome to my GitHub profile! I'm Tinesh Nehete, a student pursuing a Bachelor's
 ## Get in Touch
 Feel free to connect with me on LinkedIn or reach out via email:
 
+- Website: [tineshnehete.com](tineshnehete.com)
 - LinkedIn: Tinesh Nehete
 - Twitter: @tineshnehete
 - Instagram: @tineshnehete
