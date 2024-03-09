@@ -1,16 +1,14 @@
-### Hi there 👋
+      Tinesh Nehete \* { margin: 0; padding: 0; box-sizing: border-box; } :root { --text-color: white; --bg-url: url(./assets/bg-dark.jpg); --bg-color: rgb(22, 22, 24); --stroke-color: rgba(255, 255, 255, 0.5); --surface-color: rgba(255, 255, 255, 0.05); --surface-color-hover: rgba(0, 0, 0, 0.02); --highlight-color: rgba(255, 255, 255, 0.2); --switch-bg-url: url(./assets/moon.svg); } .light { --text-color: black; --bg-url: url(./assets/bg-light.jpg); --bg-color: rgb(239, 235, 239); --stroke-color: rgba(0, 0, 0, 0.5); --surface-color: rgba(0, 0, 0, 0.05); --surface-color-hover: rgba(0, 0, 0, 0.02); --highlight-color: rgba(0, 0, 0, 0.1); --switch-bg-url: url(./assets/sun.svg); } body { background: var(--bg-url) no-repeat top center/cover; background-color: var(--bg-color); min-height: 100vh; } body \* { font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif; color: var(--text-color); } #container { width: 100%; max-width: 588px; margin: 56px auto 0px; padding: 0 24px; } #profile { text-align: center; padding: 24px; } #profile img { width: 112px; border-radius: 100%; } #profile p { font-weight: 500; line-height: 24px; margin-top: 8px; } #switch { position: relative; width: 64px; margin: 4px auto; } #switch button { width: 32px; height: 32px; background: #ffffff var(--switch-bg-url) no-repeat center; border: 0; border-radius: 50%; position: absolute; top: 50%; left: 0; z-index: 1; transform: translateY(-50%); animation: slide-out 0.28s; } .light #switch button { animation: slide-in 0.2s forwards; } #switch button, #switch span { cursor: pointer; } #switch span { display: block; width: 64px; height: 24px; background: var(--surface-color); border: 1px solid var(--stroke-color); backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); border-radius: 9999px; } ul { list-style: none; display: flex; flex-direction: column; gap: 16px; padding: 24px 0; } ul li a { display: flex; align-items: center; justify-content: center; padding: 16px 24px; background: var(--surface-color); border: 1px solid var(--stroke-color); border-radius: 8px; backdrop-filter: blur(4px); -webkit-backdrop-filter: blur(4px); text-decoration: none; font-weight: 500; transition: background 0.2s; } ul li a:hover { background: var(--surface-color-hover); border: 1.5px solid var(--text-color); } #social-links { display: flex; justify-content: center; padding: 24px 0; font-size: 24px; } #social-links a { display: flex; align-items: center; justify-content: center; padding: 16px; transition: background 0.2s; border-radius: 50%; } #social-links a:hover { background: var(--highlight-color); } @keyframes slide-in { from { left: 0; } to { left: 50%; } } @keyframes slide-out { from { left: 50%; } to { left: 0; } }
 
-<!--
-**Tineshnehete/tineshnehete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://tineshnehete.com/assets/tineshnehete.jpg)
 
-Here are some ideas to get you started:
+@tineshnehete
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Student | CTF Player | Bug Hunter | Software Developer
+
+[](https://github.com/tineshnehete)[](https://www.instagram.com/tineshnehete)[](https://www.linkedin.com/in/tineshnehete)[](https://twitter.com/tineshnehete)[](mailto:hello@tineshnehete.com)
+
+* * *
+
+*   [![](https://github-readme-stats.vercel.app/api?username=tineshnehete&show_icons=false&theme=dark&rank_icon=github&hide_border=true )](https://github.com/tineshnehete)
+*   [![](https://github-readme-stats.vercel.app/api/top-langs/?username=tineshnehete&&theme=dark&hide_progress=true&hide_border=true)](https://github.com/tineshnehete)
