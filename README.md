@@ -1,7 +1,7 @@
 # Tinesh Nehete 
 
 
-Welcome to my GitHub profile! I'm Tinesh Nehete, a student pursuing a Bachelor's degree in Computer Applications (BCA). I have a passion for exploring various aspects of technology and software development.
+Welcome to my GitHub profile! I'm Tinesh Nehete, a student passes my Bachelor's degree in Computer Applications (BCA). I have a passion for exploring various aspects of technology and software development.
 
 ## About Me
 -  Name: Tinesh Nehete
