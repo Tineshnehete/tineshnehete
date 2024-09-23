@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Tinesh Nehete, a student passes my Bachelor's 
 
 ## About Me
 -  Name: Tinesh Nehete
-- Education: Bachelor of Computer Applications (BCA)
+- Education: Pursuing Masters of Computer Applications (MCA)
 - Interests: Software development, exploring new technologies, - learning, and sharing knowledge.
 
 ## Get in Touch
