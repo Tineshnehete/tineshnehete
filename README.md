@@ -25,4 +25,4 @@ Feel free to connect with me on LinkedIn or reach out via email:
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=tineshnehete&&theme=dark&hide_progress=true&hide_border=true" />
             </div>
 
-       
+[![An image of @tineshnehete's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tineshnehete)](https://holopin.io/@tineshnehete)
